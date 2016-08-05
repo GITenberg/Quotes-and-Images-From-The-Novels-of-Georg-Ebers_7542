@@ -1,0 +1,36 @@
+_repo: Quotes-and-Images-From-The-Novels-of-Georg-Ebers_7542
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7542/7542-h/images/bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Ebers, Georg
+    alias: Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images From The Novels of Georg Ebers
+url: http://www.gutenberg.org/ebooks/7542
